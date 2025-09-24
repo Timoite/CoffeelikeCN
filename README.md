@@ -4,9 +4,9 @@ This repository is dedicated to replicating the signature drinks and brewing tec
 Work in progress, feel free to contribute if you can!
 
 TODO:
--[] List all available drinks for each brand
--[] Gather recipes from various sources
--[] Test and refine recipes
+- [ ] List all available drinks for each brand
+- [ ] Gather recipes from various sources
+- [ ] Test and refine recipes
 
 # Important Note
 This repository is for educational and personal use only. All recipes and brand names are the property of their respective owners. Please do not use this content for commercial purposes.
